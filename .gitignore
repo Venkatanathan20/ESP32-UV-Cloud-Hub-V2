@@ -1,0 +1,9 @@
+**/.pio/
+**/.vscode/
+**/.dart_tool/
+**/build/
+mobile_app/.flutter-plugins
+mobile_app/.flutter-plugins-dependencies
+mobile_app/android/.gradle/
+mobile_app/android/local.properties
+*.iml
